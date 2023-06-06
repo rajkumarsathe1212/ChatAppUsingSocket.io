@@ -1,0 +1,6 @@
+Referral link := https://github.com/afuu21/100days10projects/blob/main/Project%201/Chat-app.txt
+
+
+install express, socket.io
+
+paste the code as per the above link....
